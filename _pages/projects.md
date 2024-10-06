@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Research
+permalink: /research/
 <!-- description: A collection of research projects. -->
 nav: true
 nav_order: 1
-display_categories: [work, fun]
+display_categories: [Research, Knowledge Transfer]
 horizontal: false
 ---
 
