@@ -25,7 +25,7 @@ social: true # includes social icons at the bottom of the page
 
 <h3 class="font-weight-bold"> Dr. Coco Yin Tung KWOK</h3> 
 
-is currently a Lecturer at the <i> Department of Land Surveying and Geo-Informatics, The Hong Kong Polytechnic University </i>. She received a Bachelor of Science (Hons) in Geomatics (Land Surveying) and PhD in Remote Sensing and GIS at the same department in 2015 and 2023 respectively. 
+is currently a Teaching Fellow at the <i> Department of Land Surveying and Geo-Informatics, The Hong Kong Polytechnic University </i>. She received a Bachelor of Science (Hons) in Geomatics (Land Surveying) and PhD in Remote Sensing and GIS at the same department in 2015 and 2023 respectively. 
 
 She has been involved in various remote sensing and GIS research projects, including smart sensing technology for monitoring the tree tilt angle, vegetation and land cover mapping, tree health condition analysis, solar potential in urban area, water quality retrieval, thermal infrared technology and indoor positioning with about 15 SCI journal publications.
 
